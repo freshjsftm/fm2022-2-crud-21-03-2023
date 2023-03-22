@@ -7,3 +7,9 @@ CREATE TABLE "things"(
 );
 
 
+-- UPDATE "things"
+-- SET "body"='new body', "updatedAt"=new Date()
+-- WHERE "id"=2
+-- RETURNING *;
+
+
